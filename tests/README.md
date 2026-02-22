@@ -1,3 +1,3 @@
-# Test Directory
+# Tests
 
-Place automated tests here.
+Add unit and integration tests for core behaviors.
